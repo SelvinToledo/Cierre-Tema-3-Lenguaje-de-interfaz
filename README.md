@@ -32,4 +32,19 @@ Por lo que en el gef se muestra solamente como se asigna el numero en cuestion a
 ![image](https://user-images.githubusercontent.com/84409683/169448960-240bc2a2-a73a-4443-ad01-b10698b9c632.png)
 ![image](https://user-images.githubusercontent.com/84409683/169448992-a396ab5b-e71e-48a8-8179-f813661958fb.png)
 ![image](https://user-images.githubusercontent.com/84409683/169449017-104038c5-6d38-40a6-8639-ddd023fa2a7f.png)
-- Ahora en este programa
+- Ahora en este programa unicamente se muestra la suma de 33+44 en ensamblador, por lo que su pantalla correspondiente es 
+la siguiente:
+![image](https://user-images.githubusercontent.com/84409683/169449176-d4a32802-9424-47c4-a163-8a983a7f0ad5.png)
+![image](https://user-images.githubusercontent.com/84409683/169449227-04ca72a9-f05a-4628-9578-d3acd30c4e5d.png)
+- En este otro programa es basicamente el mismo resutlado pero unicamente cambia el codigo en ensamblador:
+![image](https://user-images.githubusercontent.com/84409683/169449325-3d9eb14b-e99d-42d5-8dc2-74ab2518fe6b.png)
+![image](https://user-images.githubusercontent.com/84409683/169449357-edcabc99-e6d7-42e5-b970-0af6f495907a.png)
+- Este otro programa de igual forma es lo mismo en cuestion de resultados que los anteriores, por lo que cambia
+el codigo en ensamblador
+![image](https://user-images.githubusercontent.com/84409683/169449462-b87bf703-bdca-482b-ac66-8794acd357bd.png)
+![image](https://user-images.githubusercontent.com/84409683/169449489-cfa437f4-999e-4b56-b717-b739a6e22dc6.png)
+
+
+
+
+
